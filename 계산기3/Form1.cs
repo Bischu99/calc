@@ -65,7 +65,7 @@ namespace 계산기3
 				operation += Oper;
 				textBoxWorkspace.Text += Oper;
 			}
-			operandChange = 1;// 연산자 넣어줬으니 operand2에 input number 
+			operandChange = 1;// operand2에 input number 
 		}
 		private void Equal_result()
 		{
