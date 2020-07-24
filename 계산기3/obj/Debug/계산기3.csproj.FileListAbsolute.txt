@@ -1,0 +1,10 @@
+C:\Users\IOT\source\repos\계산기3\계산기3\bin\Debug\계산기3.exe.config
+C:\Users\IOT\source\repos\계산기3\계산기3\bin\Debug\계산기3.exe
+C:\Users\IOT\source\repos\계산기3\계산기3\bin\Debug\계산기3.pdb
+C:\Users\IOT\source\repos\계산기3\계산기3\obj\Debug\계산기3.csprojAssemblyReference.cache
+C:\Users\IOT\source\repos\계산기3\계산기3\obj\Debug\계산기3.Form1.resources
+C:\Users\IOT\source\repos\계산기3\계산기3\obj\Debug\계산기3.Properties.Resources.resources
+C:\Users\IOT\source\repos\계산기3\계산기3\obj\Debug\계산기3.csproj.GenerateResource.cache
+C:\Users\IOT\source\repos\계산기3\계산기3\obj\Debug\계산기3.csproj.CoreCompileInputs.cache
+C:\Users\IOT\source\repos\계산기3\계산기3\obj\Debug\계산기3.exe
+C:\Users\IOT\source\repos\계산기3\계산기3\obj\Debug\계산기3.pdb
